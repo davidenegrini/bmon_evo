@@ -13,7 +13,7 @@ Compilazione tramite [Bloodshed Dev-C++](https://sourceforge.net/projects/orwell
 
 **Istruzioni per la compilazione**
 
- - Compilare singolarmente ciascuno dei 3 file sorgente senza eseguirlo.
+ - Compilare singolarmente con GCC Release nella versione a **32 bit** ciascuno dei 3 file sorgente senza eseguirlo.
  - Portare i 3 file exe compilati in una cartella dedicata (verranno creati alla prima apertura diversi file di impostazioni e dati).
  - Aprire il file `start.exe`.
 
